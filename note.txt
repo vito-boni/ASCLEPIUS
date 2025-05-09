@@ -1,0 +1,18 @@
+REQUIREMENTS.json
+{
+	"backend-service-url": "http://35.219.43.192:8080/predict",
+	"frontend-service-url": "https://submissionmlgc-vitoboni.et.r.appspot.com",
+	"project-id": "submissionmlgc-vitoboni",
+	"bucket-name": "dermascope-vba"
+}
+
+---
+
+NOTE.txt
+project id      : submissionmlgc-vitoboni
+bucket & VM     : dermascope-vba
+external IP		: 34.34.220.233
+ex static IP	: 35.219.43.192
+model URL		: https://storage.googleapis.com/dermascope-vba/models/model.json
+backend URL 	: http://35.219.43.192:8080/predict
+frontend URL 	: https://submissionmlgc-vitoboni.et.r.appspot.com

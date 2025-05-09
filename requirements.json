@@ -1,0 +1,6 @@
+{
+	"backend-service-url": "http://35.219.43.192:8080/predict",
+	"frontend-service-url": "https://submissionmlgc-vitoboni.et.r.appspot.com",
+	"project-id": "submissionmlgc-vitoboni",
+	"bucket-name": "dermascope-vba"
+}
